@@ -1,0 +1,5 @@
+mkdir= Crea un directorio
+touch= Crea un archivo
+git add . = Añade los cambios
+git commit -m ""= Commitea los cambios
+git push = sube las actualizaciones al repositorio remoto

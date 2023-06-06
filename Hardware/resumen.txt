@@ -1,0 +1,4 @@
+Tres partes de la computadora:
+- RAM
+- ROM 
+- Disco duro 
